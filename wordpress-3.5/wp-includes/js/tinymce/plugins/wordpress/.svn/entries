@@ -1,0 +1,57 @@
+8
+
+dir
+39979
+http://core.svn.wordpress.org/tags/3.5/wp-includes/js/tinymce/plugins/wordpress
+http://core.svn.wordpress.org
+
+
+
+2012-12-10T10:16:49.112271Z
+23156
+bumpbot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a063a9b-81f0-0310-95a4-ce76da25c4cd
+
+editor_plugin.js
+file
+
+
+
+
+2017-02-05T13:54:28.000000Z
+463fd700afb5ed294264bc16a1063375
+2012-12-10T10:16:49.112271Z
+23156
+bumpbot
+has-props
+
+editor_plugin_src.js
+file
+
+
+
+
+2017-02-05T13:54:28.000000Z
+ccf5e6012c894a387d6e04300e6d60ed
+2012-12-10T10:12:47.758934Z
+23154
+nacin
+has-props
+
+img
+dir
+

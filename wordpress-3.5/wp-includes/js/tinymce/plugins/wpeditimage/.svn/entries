@@ -1,0 +1,76 @@
+8
+
+dir
+39979
+http://core.svn.wordpress.org/tags/3.5/wp-includes/js/tinymce/plugins/wpeditimage
+http://core.svn.wordpress.org
+
+
+
+2012-12-06T04:50:31.479089Z
+23090
+azaozz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a063a9b-81f0-0310-95a4-ce76da25c4cd
+
+css
+dir
+
+editimage.html
+file
+
+
+
+
+2017-02-05T13:54:26.000000Z
+ff7bbb3f7519ab7cc2a9f7fb2a39ea33
+2012-12-06T04:50:31.479089Z
+23090
+azaozz
+has-props
+
+editor_plugin.js
+file
+
+
+
+
+2017-02-05T13:54:26.000000Z
+5f51f325fb3e0b8e1737690dc96e3c9d
+2012-11-27T02:58:50.109753Z
+22860
+bumpbot
+has-props
+
+editor_plugin_src.js
+file
+
+
+
+
+2017-02-05T13:54:26.000000Z
+653d4dc2d7c3dbdd9ad409ae3f4c4817
+2012-11-27T01:31:51.287076Z
+22857
+azaozz
+has-props
+
+img
+dir
+
+js
+dir
+

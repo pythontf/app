@@ -1,0 +1,41 @@
+8
+
+dir
+39979
+http://core.svn.wordpress.org/tags/3.5/wp-includes/SimplePie/Decode/HTML
+http://core.svn.wordpress.org
+
+
+
+2012-11-21T22:31:55.432126Z
+22798
+duck_
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a063a9b-81f0-0310-95a4-ce76da25c4cd
+
+Entities.php
+file
+
+
+
+
+2017-02-05T13:54:39.000000Z
+45975e2fcf0d428691a55a2394252f61
+2012-11-21T22:31:55.432126Z
+22798
+duck_
+has-props
+
